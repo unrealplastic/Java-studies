@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class Persistencia {
     
-    public static String caminho = "C:\\seu-caminho-aqui\\users.txt";
+    public static String caminho = "C:\\Users\\nickl\\OneDrive\\Área de Trabalho\\users.txt";
 
     public static ArrayList<Usuario> lista = new ArrayList<>();
 
